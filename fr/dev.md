@@ -2,7 +2,9 @@
 
 Voici quelques détails techniques et quelques remarques générales concernant le développement de Planet Alert.
 
-Tout d'abord, l'idée première est de n'utiliser que des logiciels libres et de placer tout ça sous licence libre : à mon sens, le partage est la clé, surtout dans l'éducation.
+Tout d'abord, l'idée première est née en découvrant [Habitica](https://habitica.com/) (ex HabitRPG). Je me suis tout de suite dit que l'on pouvait l'adapter à la salle de classe. Je continue d'ailleurs à aller y trouver l'inspiration pour Planet Alert ;) 
+
+Ensuite, il faut comprendre que je ne souhaite utiliser que des logiciels libres et placer tout ça sous licence libre : à mon sens, le partage est la clé, surtout dans l'éducation.
 
 Le CMS qui se cache derrière Planet Alert est [ProcessWire](http://processwire.com). Il est développé par Ryan Cramer. Le fonctionnement de ce CMS me convient très bien car il laisse une totale liberté sur la forme du 'Front-end' avec une robuste architecture côté 'Back-end'. L'API est formidable, et j'apprends milliards de choses en PHP grâce aux documentations excellentes sur le site de l'auteur. Au delà de Ryan, d'ailleurs, je souhaite féliciter et remercier toute la communauté du Forum ProcessWire qui m'a apporté (et m'apporte encore souvent) une aide fantastique.
 
