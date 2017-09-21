@@ -1,4 +1,4 @@
-# The Monsters (Les Monstres)
+ # The Monsters (Les Monstres)
 
 ![List](img/monsters_list.png)
 
@@ -10,4 +10,4 @@ Pour le moment, seuls 2 types d'exercices existent :
 
 Ces exercices évolueront certainement et d'autres types verront le jour peu à peu.
 
-Seul l'entraînement est possible à ce jour (grâce au Memory Helmet) afin de gagner des points de UT. Plus tard, les monstres devront être combattus pour augmenter encore davantage son XP.
+Vous pouvez vous entraîner sur tous les monstres (grâce au Memory Helmet) afin de gagner des points de UT. Lorsque vous cumulez +20UT sur un monstre, celui-ci peut désormais être combattu. Pour cela, il suffit d'aller dans 'My Actions' et de choisir l'option 'Fight a monster'. Le combat permet d'augmenter son XP, ainsi que son Fighting Power.

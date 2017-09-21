@@ -78,3 +78,10 @@ Le joueur peut voir d'un coup d'oeil le nombre d'équipement acheté par les aut
 
 Ce nombre représente le nombre de GC donné à d'autres joueurs de Planet Alert. Certains joueurs préfèrent se montrer généreux. Cet indicateur (et le classement des 'Best Donators') est là pour refléter cette attitude positive.
 
+## L'U.T. (Undergound Training)
+
+Ce nombre représente le nombre de mots étudiés à l'aide du Memory Helmet. Chaque point comptabilise 10 mots proposés par le casque pour stimuler la mémoire de votre avatar.
+
+## Le F.P. (Fighting Power)
+
+Cet indicateur correspond à au pouvoir offensif de votre avatar. Vous cumulez des points en gagnant des combats, mais attention, vous ne perdez également en cas de mauvais résultat. Les invasions de monstres (questions en classe sur vos Places) sont également compatabilisées : +1FP si vous repoussez l'invasions facilement (bonne réponse, -1FP) si vous repoussez l'invasion avec pertes (mauvaise réponse).

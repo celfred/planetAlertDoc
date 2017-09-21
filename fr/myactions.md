@@ -21,3 +21,7 @@ Pour le moment, le formulaire de dons est accessible par la Marketplace en cliqu
 Ce lien vous amène à la Training Zone. Vous y trouverez tous les thèmes avec lesquels vous pourrez programmer le casque afin de stimuler le cerveau de votre avatar et le faire progresser. Les sessions d'entraînements rapportent des points de UT, mais aussi un peu d'XP et des GC. Le casque ne peut être utilisé plusieurs fois par jour sur un même thème. Les dates d'utilisation s'espacent peu à peu (chaque jour, 1 fois par semaine, 1 fois par mois) pour vous aider à être plus efficace avec vos sessions d'entraînements.
 
 Attention! Le Memory Helmet est vérouillé au début du jeu. Il s'agit d'un item de groupe. Il faut qu'1 membre (et 1 seul) de votre groupe le débloque pour le rendre accessible à tous les membres du groupe. Il n'est accessible qu'à partir du niveau 03.  
+
+## Fight a monster (Combattre un monstre)
+
+Cel ien vous amène à la Fighting Zone. Vous y trouverez tous les monstres qui passent à proximité de votre avatar et que vous pourrez attaquer. Attention, pour qu'un monstre soit vulnérable, il faut s'être entraîner avec le Memory Helmet jusqu'à obtenir +20UT. Les combats ne sont possibles qu'une fois tous les 20 jours sur un même monstre.
