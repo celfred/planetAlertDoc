@@ -123,10 +123,10 @@ Les actions figurent sous l'onglet *'The Actions'* et sont nombreuses. Elles app
 
 Prenez le temps de consulter le catalogue complet des actions dans l'onglet '*The Actions*'!
 
-Pourquoi Planet Alert?
+Pourquoi Planet Alert ?
 ====================
 Planet Alert part d'une simple idée : essayer d'intégrer une dimension ludique à l'enseignement afin de motiver les élèves.
-L'intérêt du 'jeu' repose sur son lien étroit avec la vie de la classe. Chaque cours offre la possibilité aux élèves de faire évoluer leur personnage. Le mot 'jeu' est volontairement mis entre guillemets dans cette documentation car la dimension ludique ne doit pas cacher la réalité qui est derrière : le travail effectif des élèves. Il ne s'agit pas de cacher toute tâche derrière le côté ludique, mais bien d'essayer de motiver pour progresser dans l'acquisition de compétences.
+L'intérêt du 'jeu' repose sur son lien étroit avec la vie de la classe. Chaque cours offre la possibilité aux élèves de faire évoluer leur personnage. Le mot 'jeu' est volontairement mis entre guillemets dans cette documentation car la dimension ludique ne doit pas cacher la réalité qui est derrière : le travail effectif des élèves. Il ne s'agit pas de cacher toute tâche derrière le côté ludique, mais bien d'essayer de motiver pour progresser dans l'acquisition de compétences et de connaissances.
 
 Du côté 'Prof', un espace '*Reports*' est accessible permettant d'avoir un suivi de l'ensemble de la classe concernant de nombreux aspects : travail à la maison non fait, matériel oublié, participation, résultats aux évaluations, travail supplémentaire fournit, ... 
 Le suivi peut également être généré pour 1 élève en particulier.

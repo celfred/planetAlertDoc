@@ -3,7 +3,7 @@
 C'est la page détaillée de présentation de son avatar.
 Vous y trouvez toutes sortes d'informations :
 - les scores actuels de votre avatar (XP, GC, HP, Karma,...). Voir ['Le Jeu'](game.md) pour les détails sur ces indicateurs.
-- l'équipement de votre avatar avec les images correspondates.
+- l'équipement de votre avatar avec les images correspondantes.
 - les lieux que vous avez libérés avec les images correspondantes.
 - l'historique de vos entraînements
 - Le tableau général des classements

@@ -46,9 +46,11 @@ Les potions ont un usage ponctuel spécifique :
 
 ## Les items de groupe
 
-Les items de groupe sont disponibles pour _tous_ les membres d'un groupe si _1_ membre l'a acheté au magasin.
-Pour le moment, un seul item de groupe est disponible :
+Les items de groupe sont disponibles pour _tous_ les membres d'un groupe si _1 seul_ membre l'achète.
+Pour le moment, les items de groupe suivants sont disponibles :
 
 | Image | Name | Description |
 |: -------- :|: -------- :|: -------- :| 
-| ![image](img/helmet.png) | Memory Helmet - Le Casque Memoriel | Ce casque permet de gagner des points de UT.
+| ![image](img/helmet.png) | Memory Helmet - Le Casque de méoire | Ce casque permet d'accéder aux exercices en ligne et de gagner des points de UT.
+| ![image](img/book-knowledge.png) | Book of Knowledge - Le Livre des Savoirs | Le livre donne accès à des leçons. En copiant une leçon, un joueur augmente son XP et gagne des GC.
+| ![image](img/visualizer.png) | Electronic Visualizer - Le visualisuer électronique | Ce détecteur permet de voir tous les monstres (exercices) chaque jour. Sans lui, chaque jour, certains monstres se cachent et ne sont donc pas accessibles pour le joueur.
