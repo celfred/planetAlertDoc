@@ -12,10 +12,12 @@ Depuis la mise en place des exercices d'entraînement, je reprends également ma
 
 Concernant le code, nul besoin de rappeler que je n'ai rien d'un programmeur. Je reste avant tout enseignant et du coup, pardonnez toutes mes maladresses de 'codeur'. J'essaye de bien faire, d'adopter les bonnes techniques et la bonne syntaxe, mais ce n'est pas toujours simple ;)
 
-Les sources complètes de Planet Alert sont disponibles sur Github à cette adresse : [https://github.com/celfred/PlanetAlertProfile](https://github.com/celfred/PlanetAlertProfile).
+Les sources complètes de Planet Alert sont disponibles sur Framagit à cette adresse : [https://framagit.org/celfred/planetAlert](https://framagit.org/celfred/planetAlert).
 
 Les graphismes du site proviennent tous d'[Open Clipart Library](https://openclipart.org/). Certains monstres ont été dessinés par mes filles, mes élèves ou moi-même. Ils ont tous été uploadés sur OCAL (avec l'accord de tous) afin d'être librement partagés.
 
-Le site est hébergé gratuitement sur [Tuxfamily](http://tuxfamily.org/). Là encore, un grand merci ! Le service est très fiable, et cela me permet d'avoir une URL reflétant une certaine idée du libre et du partage. Je la vante auprès des élèves. Je fais de mon mieux pour respecter mon quota disque et j'espère que j'y parviendrait encore longtemps pour ne pas avoir à chercher un autre hébergeur.
+Le site est hébergé gratuitement sur [Tuxfamily](http://tuxfamily.org/). Là encore, un grand merci ! Le service est très fiable, et cela me permet d'avoir une URL reflétant une certaine idée du libre et du partage. Je la vante auprès des élèves. Je fais de mon mieux pour respecter mon quota disque et j'espère que j'y parviendrais encore longtemps pour ne pas avoir à chercher un autre hébergeur.
 
 Un petit mot sur moi pour les curieux, même si il n'y a pas grand chose à dire. J'enseigne l'anglais en collège, à Raon L'Étape (Vosges, France) pour l'instant. J'essaye de m'adapter à l'évolution du métier telle que je la ressens. J'aime bien jouer en classe (d'autres jeux sont à disposition sur mon dépôt Github) et je m'intéresse à la programmation. Et puis j'aime bien essayer de créer ce que je veux, tranquillement, dans mon coin, à mon rythme... Maintenant, si quelqu'un souhaite participer à mes côtés, pourquoi pas ? :)
+
+Mise à jour année scolaire 2018/2019 : Le site est maintenant utilisé également avec une classe d'école primaire et propose donc un accès enseignant et une version française. Du coup, si d'autres enseignants souhaiteraient y participer, n'hésitez pas à me contacter via le formulaire de contact de Planet Alert (dans le menu 'Infos').
