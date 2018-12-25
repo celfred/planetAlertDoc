@@ -1,4 +1,3 @@
 {
-    "plugins" : ["anchor-navigation-ex",
-    "folding-chapters"]
+    "plugins" : ["anchor-navigation-ex"]
 }
