@@ -49,14 +49,13 @@ Le karma est calculé de la manière suivante :
 
 Il augmente avec...
 
-- Une action positive 'simple' (c'est à dire rapportant des points des XP, GC ou HP) : +2 points.
-- Une action positive 'importante' (c'est à dire rapportant de base +5XP, +5GC ou +5HP  ou davantage) : +4 points.
+- Une action positive 'simple' (c'est à dire rapportant des points de XP, GC ou HP) : +2 points.
+- Une action positive 'importante' (c'est à dire rapportant de base au moins +5XP, +5GC ou +5HP) : +4 points.
 - Les gains spéciaux :
   - Un élément libéré : +8 auquel on ajoute le niveau requis pour libérer l'élément (un élément de niveau 03 rapport +3 points supplémentaires, soit un total de 11 points).
   - Un achat : +4 auquel on ajoute le niveau requis pour acheter l'élément (un élément de niveau 03 rapport +3 points supplémentaires, soit un total de 7 points).
   - Un don : +1 point, limité à 1 gain par jour.
-  - Un entraînement secret (UT) simple avec le casque de mémoire : +1, limité à 1 gain par jour.
-  - Un entraînement secret (UT) excellent avec le casque de mémoire : +2, limité à 1 gain par jour.  
+  - Un entraînement secret (UT) excellent avec le casque de mémoire : +2.
 
 Il baisse avec...
 
@@ -64,9 +63,16 @@ Il baisse avec...
 - Une action négative 'importante' (c'est à dire coûtant de base -5XP, -5GC ou -5HP ou davantage) : -4 points.
 - Un lieu perdu (suite à 3 invasions repoussées avec perte) : -5 points
 
+Il ne bouge pas avec...
+
+- Un entraînement secret (UT) simple avec le casque de mémoire.
+- Un achat de PDF
+- Un don reçu
+- Un don fait à plusieurs reprises le même jour
+
 Le karma évolue donc en permanence. Il peut augmenter ou baisser en fonction des actions du joueur.
 
-Certains choix peuvent paraître surprenant, mais l'objectif de ce calcul est de promouvoir les activités en classe. Un joueur ne passant pas son temps sur le site Internet (par choix, mais aussi en raison d'un accès impossible à la maison) ne doit pas se voir 'pénalisé' par rapport aux autres. C'est pourquoi les armes du joueur n'influent pas sur les gains lors de l'utilisation du casque de mémoire. C'est pour cette raison également que le classement d'Entraînement Secret (UT) existe.
+Certains choix peuvent paraître surprenants, mais l'objectif de ce calcul est de promouvoir les activités en classe. Un joueur ne passant pas son temps sur le site Internet (par choix, mais aussi en raison d'un accès impossible à la maison) ne doit pas se voir 'pénalisé' par rapport aux autres. C'est pourquoi les armes du joueur n'influent pas sur les gains lors de l'utilisation du casque de mémoire. C'est pour cette raison également que le classement d'Entraînement Secret (UT) existe.
 
 ## Le niveau (Level)
 
