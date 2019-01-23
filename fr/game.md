@@ -28,11 +28,11 @@ La réputation est l'indicateur global de Planet Alert. Un joueur la conserve au
 La réputation est calculée de la manière suivante :
 - Lieux libérés : +20 par lieu
 - Équipement : +10 par pièce d'équipement
-- Expérience cumulée (XP) : +1 par point d'XP  en cours (27XP → +27...) + XP accumulée sur les niveaux complétés (niveau 1 → +50, niveau 2 → +60, niveau 3 → +70...)
+- Expérience cumulée (XP) : +1 par point d'XP  en cours (27XP → +27...) + XP accumulée sur les niveaux complétés (niveau 1 → +60, niveau 2 → +70, niveau 3 → +80...)
 
-Pour exemple, 1 joueur au niveau 3 avec une XP de 37, ayant libéré 3 lieux, avec comme équipement 1 épée et 1 simple bouclier aura un karma de :
-- Niveau 1        : +50
-- Niveau 2        : +60
+Pour exemple, 1 joueur au niveau 3 avec une XP de 37, ayant libéré 3 lieux, avec comme équipement 1 épée et 1 simple bouclier aura un karma de 247, calculé de la manière suivante :
+- Niveau 1        : +60
+- Niveau 2        : +70
 - 37XP            : +37
 - 3 lieux         : +60
 - 2 equipements   : +20
