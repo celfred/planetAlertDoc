@@ -1,6 +1,6 @@
 # But du 'jeu'
 
-Les Hommes pensaient envahir Mars. Dommage, les Martiens ont envahit la Terre en premier ! Ils ont utilisé leur intelligence supérieure pour créer une machine capable de vider les cervaux humains. La résistance s'organise peu à peu et les Hommes essaient de ré-apprendre un langage simple (l'anglais!) pour communiquer, se regrouper, et repousser les envahisseurs. 
+Les Hommes pensaient envahir Mars. Dommage, les Martiens ont envahit la Terre en premier ! Ils ont utilisé leur intelligence supérieure pour créer une machine capable de vider les cervaux humains. La résistance s'organise peu à peu et les Hommes essaient de ré-apprendre un langage simple (l'anglais !) pour communiquer, se regrouper, et repousser les envahisseurs. 
 
 L'objectif principal du jeu est simple : il faut libérer la planète Terre !
 
@@ -13,6 +13,7 @@ Planet Alert repose sur de nombreux classements. Un joueur peut donc progresser 
 Dans l'ensemble, l'indicateur le plus simple pour voir son niveau de 'jeu' est le _karma_. Il indique la puissance, l'influence d'un joueur.
 
 Le nombre d'éléments libérés et l'équipement du joueur sont aussi des indicateurs ayant un classement à part.
+
 Les dons faits par les joueurs entre eux permettent de figurer dans le classement des 'Best Donators'.
 
 L'entraînement secret permet de faire évoluer son niveau de U.T. et de progresser dans le classement des 'Most Trained'.
@@ -27,6 +28,7 @@ La réputation est l'indicateur global de Planet Alert. Un joueur la conserve au
 
 La réputation est calculée de la manière suivante :
 - Lieux libérés : +20 par lieu
+- Personnes libérées : +20 par personne
 - Équipement : +10 par pièce d'équipement
 - Expérience cumulée (XP) : +1 par point d'XP  en cours (27XP → +27...) + XP accumulée sur les niveaux complétés (niveau 1 → +60, niveau 2 → +70, niveau 3 → +80...)
 
@@ -72,13 +74,13 @@ Il ne bouge pas avec...
 
 Le karma évolue donc en permanence. Il peut augmenter ou baisser en fonction des actions du joueur.
 
-Certains choix peuvent paraître surprenants, mais l'objectif de ce calcul est de promouvoir les activités en classe. Un joueur ne passant pas son temps sur le site Internet (par choix, mais aussi en raison d'un accès impossible à la maison) ne doit pas se voir 'pénalisé' par rapport aux autres. C'est pourquoi les armes du joueur n'influent pas sur les gains lors de l'utilisation du casque de mémoire. C'est pour cette raison également que le classement d'Entraînement Secret (UT) existe.
+Certains choix peuvent paraître surprenants, mais l'objectif de ce calcul est de promouvoir les activités en classe. Un joueur ne passant pas son temps sur le site Internet (par choix, mais aussi en raison d'un accès impossible à la maison) ne doit pas se voir trop 'pénalisé' par rapport aux autres. C'est pourquoi les armes du joueur n'influent pas sur les gains lors de l'utilisation du casque de mémoire. C'est pour cette raison également que le classement d'Entraînement Secret (UT) existe.
 
 ## Le niveau (Level)
 
 Chaque nouveau joueur démarre au niveau 1. Il faudra atteindre 50 points d'XP pour franchir ce niveau et passer au niveau 2. Ensuite, il lui faudra acquérir 60 pour aller au niveau 3, puis 70,... 
 
-Le niveau du joueur lui permet d'accéder à certains lieux ou équipements nouveaux. Vérifiez bien si vous êtes au niveau nécessaire avant de déclarer qu'un item ne vous est pas proposé !
+Le niveau du joueur lui permet d'accéder à certains lieux ou équipements nouveaux. Vérifiez bien si vous êtes au niveau nécessaire avant de déclarer qu'un item ne vous est pas proposé dans votre Place du marché (Marketplace) !
 
 ## L'expérience (XP)
 
@@ -138,3 +140,7 @@ Attention ! Si 2 joueurs s'amusent à se faire des dons fictifs, ils seront pén
 ## Le FP (Fighting Power)
 
 Cet indicateur correspond au pouvoir offensif de votre avatar. Vous cumulez des points en gagnant des combats, mais attention, vous en perdez également en cas de mauvais résultat. Les invasions de monstres (questions en classe sur vos éléments) sont également comptabilisées : +1FP si vous repoussez l'invasion facilement (bonne réponse), -1FP si vous repoussez l'invasion avec perte (mauvaise réponse). Les évaluations en classe (Monster attacks, battles) sont également comptabilisées.
+
+## Les médailles (Medals)
+
+Sur la page 'Profil' figure un indicateur du nombre de médailles obtenues par le joueur. Pour obtenir une médaille, il faut avoir réalisé au moins 3 combats contre un même monstre et obtenir une moyenne de score positive. Le joueur obtient alors l'accès à sa page des monstres vaincus.

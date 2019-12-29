@@ -34,17 +34,17 @@ Cette zone permet aux joueurs ayant la compétence de 'Combattant' de s'affronte
 
 Attention ! Si un autre joueur prend le meilleur temps sur un monstre, il devient à son tour le Master et l'ancien Master perd des HP (et son rôle de Master sur ce monstre) !
 
-## Use the Electronic Visualizer (Utiliser le Visualiseur électronique)
-
-Chaque nuit, la moitié des monstres se cache. Si un joueur souhaite détecter tous les monstres en permanence, il faut acheter l'Electronic Visualizer. C'est un item de groupe, c'est à dire qu'un seul memebre d'un groupe doit l'acheter pour qu'il soit disponible à tous les membres du groupe. La page de l'Electronic Visualizer permet de visualiser tous les monstres et de trier facilement ceux qui sont à proximité pour un combat, ceux sur lesquels le joueur ne s'est encore jamais entraîné...
-
 ## Read the Book of Knowledge (Lire le Livre de la connnaissance)
 
 Cet item de groupe (1 membre l'achète et l'item est disponible pour tous les membres du groupe) permet d'accéder à la zone des savoirs. C'est un espace où se trouvent des leçons que le joueur peut recopier dans con cahier pour gagner des points de XP et des GC, simplement lire, ou encore acheter la version PDF afin de l'imprimer et se constituer son propre Livre des Savoirs.
 
+## Go to the Fun Zone (Aller à la zone de détente)
+
+Cette zone permet d'imprimer librement des activités au format PDF pour se détendre. Ces activités vont du coloriage aux mots mélés, en passant par des labyrinthes ou des dessins avec des points à relier. Une fois l'activité terminée, le joueur peut rendre son travail pour participer à la décoration de la salle de classe et valider ainsi une mission personnelle lui faisant gagner quelques points d'XP et quelques G supplémentaires.
+
 ## Contact my teacher (Contacter mon enseignat·e)
 
-Ce lien amène directement vers un formulaire où le joueur n'a plus qu'à selectionner le type de message qu'il souhaite envoyer et à taper son message. Un lien permet également d'accéder à un magnétophone en ligne (merci a www.lelivrescolaire.fr) pour enregistrer un message vocal (une lecture ?). Il suffit alors de générer 1 lien et de le coller dans son message pour que l'enseignat·e puisse écouter le joueur.
+Ce lien amène directement vers un formulaire où le joueur n'a plus qu'à selectionner le type de message qu'il souhaite envoyer et à taper son message. Un lien permet également d'accéder à un magnétophone en ligne (merci a www.lelivrescolaire.fr) pour enregistrer un message vocal (une lecture ?). Il suffit alors de générer 1 lien et de le coller dans son message pour que l'enseignant·e puisse écouter le joueur.
 
 ## Visit the Hall of Fame (Visiter la Galerie des Champions)
 
@@ -52,4 +52,4 @@ Cette page permet de voir tous les avatars des joueurs de Planet Alert. Plus le 
 
 ## Go to school (Aller à l'école)
 
-Ce menu est disponible pour les élèves de collège. Il permet d'accéder rapidement à l'ENT 'Mon Bureau Numérique' ou à SACoche. Les joueurs de M. LIEUTAUD peuvent ont également un accès direct au cahier de classe se trouvant sur FLEnglish.
+Ce menu est disponible pour les élèves de collège. Il permet d'accéder rapidement à l'ENT 'Mon Bureau Numérique' ou à SACoche. Les joueurs de M. LIEUTAUD peuvent ont également un accès direct au cahier de classe se trouvant sur FLEnglish (https://flenglish.tuxfamily.org).

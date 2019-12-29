@@ -1,11 +1,11 @@
 # L'équipment
 
-L'équipement possible pour votre avatar est classé dans différentes catégories. Attention, tous les équipements ne sont pas accessibles selon le niveau de votre joueur! Pour connaître le détail précis de chaque équipement, il faut aller directement voir [The Shop](http://planetalert.tuxfamily.org/shop/) (Le Magasin).
+L'équipement possible pour votre avatar est classé dans différentes catégories. Attention, tous les équipements ne sont pas accessibles selon le niveau de votre joueur! Pour connaître le détail précis de chaque équipement, il faut aller directement voir [The Shop](https://planetalert.tuxfamily.org/shop/) (Le Magasin).
 
 ## The Weapons (Les Armes)
 
 Les armes permettent de gagner davantage d'XP et de GC lors d'actions positives.
-Pour le moment, les armes disponibles sont :
+En voici quelques une :
 
 | Image | Name | Description |
 |:--------:|:--------:|:--------:| 
@@ -15,10 +15,14 @@ Pour le moment, les armes disponibles sont :
 | ![Gun](img/gun.png) | Laser Gun | Le Pistolet Laser.
 | ![Sword](img/golden_sword.png) | Golden Sword | l'Épée d'Or.
 
+Mais il y en a d'autres : le trident, le fusil automatique, la batte de baseball, la hâche doudle...
+
+Si un joueur possède plusieurs armes, les 2 armes les plus fortes seront prises en compte dans les calculs.
+
 ## The Protections (Les Protections)
 
 Les protections permettent de perdre un peu moins d'HP lors d'actions négatives.
-Pour le moment, les protections disponibles sont :
+En voici quelques une :
 
 | Image | Name | Description |
 |:--------:|:--------:|:--------:| 
@@ -29,6 +33,10 @@ Pour le moment, les protections disponibles sont :
 | ![Glasses](img/xray_glasses.png) | Anti-X-Ray Glasses | Les Lunettes Anti-Rayons-X |
 | ![Armor](img/spaceArmor.png) | Iron Armor | L'Armure Renforcée |
 | ![Shield](img/gold_shield.png) | Golden Shield | Le Bouclier d'Or |
+
+Mais il y en a d'autres : le masque ç gaz, le bouclier royal, le casque simple...
+
+Si un joueur possède plusieurs armes, la plus forte sera prise en compte dans les calculs.
 
 
 ## The Potions (Les Potions)
@@ -43,6 +51,10 @@ Les potions ont un usage ponctuel spécifique :
 | ![Potion](img/potion_blue.png) | Resting Potion (Potion de Repos) | Cette potion permet de passer une heure de cours sans participer tout en obtenant une 'Good Communication' ;) 
 | ![Potion](img/potion_yellow.png) | Teaching Potion (Potion d'Enseignement) | Cette potion permet d'assister le professeur pendant 1 heure de cours.
 | ![Potion](img/potion_white.png) | Teleportation Potion (Potion de Téléportation) | Cette potion permet de choisir sa place en classe durant 1 heure de cours.
+| ![Potion](img/potion_white.png) | Recovering Potion (Potion de Récupération) | Cette potion permet d'augmenter sa capacité de combat à 6 combats par jour (au lieu de 3).
+| ![Potion](img/potion_white.png) | Transformation Potion (Potion de Transformation) | Cette potion permet de changer son avatar (pour le moment, il faut en créer un autre et l'envoyer à l'enseignant·e qui fera la manipulation).
+| ![Potion](img/potion_white.png) | Captain Potion (Potion de Capitaine) | Cette potion permet de devenir Capitaine provisoirement pour 1 activité en classe.
+| ![Potion](img/potion_white.png) | Memory Potion (Potion de Mémoire) | Cette potion donne accès à des missions de mémorisation permettant de gagner des points supplémentaires en les réalisant (courts textes à mémoriser, dictons, proverbes, poèmes...)
 
 ## Les items de groupe
 

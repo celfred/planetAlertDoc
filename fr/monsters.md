@@ -19,3 +19,7 @@ Lorsque vous cumulez +20UT sur un monstre, celui-ci peut désormais être combat
 Si le joueur possède une arme, il sera plus dangereux et augmentera ainsi sa force de frappe: le monstre perdra plus d'energie à chaque coup porté.
 Si le joueur possède une protection, il perdra moins d'energie en cas de mauvaise réponse.
 Un joueur avec de l'équipement aura donc plus facile à vaincre lors des combats :)
+
+Si un joueur combat 3 fois un même monstre et obtient une moyenne positive, il obtiendra 1 médaille et pourra ensuite consulter son 'tableau de chasse', page indiquant tous les monstres vaincus.
+
+Si un joueur cumule 10 combats, il débloquera l'accès au Fighters Playground, le Terrain de jeu des Combattants.
