@@ -44,7 +44,14 @@ Cette zone permet d'imprimer librement des activités au format PDF pour se dét
 
 ## Contact my teacher (Contacter mon enseignat·e)
 
-Ce lien amène directement vers un formulaire où le joueur n'a plus qu'à selectionner le type de message qu'il souhaite envoyer et à taper son message. Un lien permet également d'accéder à un magnétophone en ligne (merci a www.lelivrescolaire.fr) pour enregistrer un message vocal (une lecture ?). Il suffit alors de générer 1 lien et de le coller dans son message pour que l'enseignant·e puisse écouter le joueur.
+Ce lien amène directement vers une ardoise ('pad') permettant au joueur d'inscrire un message qu'il pourra partager avec son enseignant·e en cochant la case au-dessus de la zone de texte.
+
+3 autres options de partage s'offrent au joueur :
+* Télécharger 1 fichier que l'enseignant·e mettra à disposition sur un espace partagé.
+* Envoyer 1 fichier sur un espace partagé afin de le transmettre à l'enseignant·e.
+* Un lien permet également d'accéder à un magnétophone en ligne (merci a www.lelivrescolaire.fr) pour enregistrer un message vocal (une lecture ?). Il suffit alors de générer 1 lien et de le coller dans son message pour que l'enseignant·e puisse écouter le joueur. 
+
+L'avantage de cette ardoise est collaboratif : quand l'enseignant·e est averti·e d'un message, cette alerte se retrouve sur son Newsboard. Il paut alors répondre/corriger/annoter le message puis le renvoyer au joueur concerné.
 
 ## Visit the Hall of Fame (Visiter la Galerie des Champions)
 
